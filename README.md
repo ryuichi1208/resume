@@ -6,9 +6,22 @@
 
 ## スキル
 
+|種類|	技術|
+|-|-|
+|言語|Go,Python, Perl, TypeScript|
+|DB|PostgreSQL, MySQL, DynamoDB, Redis, memcached, Elasticsearch|
+|クラウド|AWS, Google Cloud, Azure, Heroku|
+|コンテナ|Kubernetes, EKS, ECS|
+|CI/CD|GitHub Actions, Jenkins, CircleCI, ArgoCD|
+|オブザーバビリティ|Datadog, Prometheus, Grafana, Mackerel|
+|IaC|Terraform, Ansible, Cloud Formation|
+|その他|Slack, Notion|
+
 ## 職歴
 
 ### 2024/11 ~ 株式会社IVRy
+
+### 2024/11 ~ 業務委託(2社)
 
 ### 2021/07 ~ 2024/10 GMOペパボ株式会社
 
@@ -18,7 +31,7 @@
 
 - 登壇歴
     - @IT 運用管理セミナー 2024夏 ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
-    - YAPC::Hakodate 2024(前夜祭)
+    - [YAPC::Hakodate 2024](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
     - YAPC::Hiroshima 2024
     - YAPC::Kyoto 2023
     - CI/CD Conference 2023
