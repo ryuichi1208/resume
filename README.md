@@ -30,7 +30,7 @@
 ## 登壇/執筆
 
 - 登壇歴
-    - @IT 運用管理セミナー 2024夏 ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
+    - [@IT 運用管理セミナー 2024夏](https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying) ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
     - [YAPC::Hakodate 2024](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
     - YAPC::Hiroshima 2024
     - YAPC::Kyoto 2023
