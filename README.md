@@ -4,6 +4,17 @@
 
 2016年からソフトウェアエンジニアをやっています。最初はLinux向けのファイルシステム開発に携わり、クォータ機能の実装を担当しました。その後、インフラエンジニアとしてWebニュースサイトの運用や、ECサイト作成支援サービスでSREとして活動しました。現在は株式会社IVRyでSREとして活躍しており、特に障害対応やEOL対応に強みを持っています。
 
+#### SNS
+
+* [GitHub](https://github.com/ryuichi1208)
+* [X](https://x.com/ryuichi_1208)
+* [はてなブログ](https://ryuichi1208.hateblo.jp/)
+* [SpeakerDeck](https://speakerdeck.com/ryuichi1208)
+* [Zenn](https://zenn.dev/ryuichi1208)
+* [Qiita](https://qiita.com/ryuichi1208)
+
+連絡はXのDMか「ryucrosskey@gmail.com」までお願いします。
+
 ## 得意領域
 
 **SRE & 信頼性エンジニアリング**
@@ -117,17 +128,6 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 **アウトプットをすることが好きです**
 
 私は「情報はアウトプットしている人の元へ集まる」を信じています。年間100記事以上の技術ブログの執筆や勉強会/カンファレンスへの登壇などを通して学びや考えをアウトプットし続けています。これらの活動は私にとって自己成長の源泉でもあります。新しい技術やアイデアに触れることで、自分の技術的な視野を広げ、より創造的で効果的なソリューションを提案する能力を磨いています。さらに、これらの経験は私がチームやプロジェクトに新たな視点をもたらし、新たな視点、アプローチを推進することに貢献しています。
-
-## SNS
-
-* [GitHub](https://github.com/ryuichi1208)
-* [X](https://x.com/ryuichi_1208)
-* [はてなブログ](https://ryuichi1208.hateblo.jp/)
-* [SpeakerDeck](https://speakerdeck.com/ryuichi1208)
-* [Zenn](https://zenn.dev/ryuichi1208)
-* [Qiita](https://qiita.com/ryuichi1208)
-
-連絡はXのDMか「ryucrosskey@gmail.com」までお願いします。
 
 ## 資格
 
