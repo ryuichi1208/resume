@@ -107,7 +107,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 
 - 登壇歴
     - [@IT 運用管理セミナー 2024夏](https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying) ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
-    - YAPC::Hakodate 2024: [入門 バックアップ](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
+    - YAPC::Hakodate 2024
     - YAPC::Hiroshima 2024
     - YAPC::Kyoto 2023
     - CI/CD Conference 2023
