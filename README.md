@@ -49,7 +49,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 
 |種類|	技術|
 |-|-|
-|言語|Go,Python, Perl, TypeScript|
+|言語|Go, Python, Perl, C, ShellScript|
 |DB|PostgreSQL, MySQL, DynamoDB, Redis, memcached, Elasticsearch|
 |クラウド|AWS, Google Cloud, Azure, Heroku|
 |コンテナ|Kubernetes, EKS, ECS|
