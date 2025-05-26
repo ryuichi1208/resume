@@ -152,6 +152,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
 - OSS
     - [ryuichi1208/mackerel-plugin-axslog-light](https://github.com/ryuichi1208/mackerel-plugin-axslog-light)
+    - [pepabo/oyaki](https://github.com/pepabo/oyaki)
 
 ## 個人について
 
