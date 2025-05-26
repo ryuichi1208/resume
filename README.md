@@ -117,7 +117,8 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [July Tech Festa 2021]()
 - 寄稿/取材
     - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
-    - [技術書典16](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN?productVariantID=qBeHLYYG911pGSMYTYXTFW)
+    - [技術書典16](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
+    - [技術書典15](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
     - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
 - ブログ
     - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
