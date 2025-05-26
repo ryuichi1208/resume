@@ -126,6 +126,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [【Linux】SO_REUSEPORTに入門してGracefulなrestartを目指す](https://ryuichi1208.hateblo.jp/entry/2021/08/26/001900)
     - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
     - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
+    - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
 
 ## 個人について
 
