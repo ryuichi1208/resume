@@ -106,14 +106,15 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 ## 登壇/執筆
 
 - 登壇歴
+    - [Open Source Conference 2025 Tokyo/Spring](https://speakerdeck.com/ryuichi1208/godezuo-tutexue-huwebsocket)
     - [@IT 運用管理セミナー 2024夏](https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying) ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
-    - YAPC::Hakodate 2024
-    - YAPC::Hiroshima 2024
-    - YAPC::Kyoto 2023
-    - CI/CD Conference 2023
-    - CloudNative Days Tokyo 2023
-    - Cloud Operator Days Tokyo 2022
-    - July Tech Festa 2021
+    - [YAPC::Hakodate 2024](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
+    - [YAPC::Hiroshima 2024](https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying)
+    - [YAPC::Kyoto 2023](https://speakerdeck.com/ryuichi1208/ru-men-zhang-hai-dui-ying)
+    - [CI/CD Conference 2023](https://speakerdeck.com/ryuichi1208/inhuraci-cdji-sok-de-gai-shan-nodao-nori)
+    - [Cloud Operator Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/xin-lai-xing-woluo-tosazuxiao-guo-de-nionkoruwojian-rasuqu-rizu-miwomu-zhi-site)
+    - [CloudNative Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/pepabonosregasheng-chan-xing-noxiang-shang-womu-zhi-sicloud-nativenatimuzuo-riwoshi-jian-sitahua)
+    - [July Tech Festa 2021]()
 - 寄稿/取材
     - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
     - [技術書典16](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN?productVariantID=qBeHLYYG911pGSMYTYXTFW)
