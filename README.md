@@ -118,6 +118,12 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
     - [技術書典16](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN?productVariantID=qBeHLYYG911pGSMYTYXTFW)
     - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
+- ブログ
+    - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
+    - [【Linux】Socket MigrationとWebSocketを使ったデプロイ戦略](https://ryuichi1208.hateblo.jp/entry/2024/12/23/235511)
+    - [【Linux】SO_REUSEPORTに入門してGracefulなrestartを目指す](https://ryuichi1208.hateblo.jp/entry/2021/08/26/001900)
+    - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
+    - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
 
 ## 個人について
 
