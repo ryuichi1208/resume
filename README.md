@@ -143,9 +143,12 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
     - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
     - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
+    - [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
 - OSS
     - [ryuichi1208/mackerel-plugin-axslog-light](https://github.com/ryuichi1208/mackerel-plugin-axslog-light)
-    - [ryuichi1208tde](https://github.com/ryuichi1208/tde)
+    - [ryuichi1208/mackerel-errorbudget-calculator](https://github.com/ryuichi1208/mackerel-errorbudget-calculator)
+    - [ryuichi1208/mackerel-plugin-sslhandshake-time](https://github.com/ryuichi1208/mackerel-plugin-sslhandshake-time)
+    - [ryuichi1208/tde](https://github.com/ryuichi1208/tde)
     - [pepabo/oyaki](https://github.com/pepabo/oyaki)
 
 ## 個人について
