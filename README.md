@@ -60,9 +60,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 
 ## 職歴
 
-### 2024/11 ~ 現在
-
-#### 株式会社IVRy
+### 株式会社IVRy (2024/11 ~ 現在)
 
 * 職種
   * SRE
@@ -72,7 +70,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   * SREプラクティスの推進
   * オブザーバビリティ基盤の実装と運用
 
-#### 業務委託
+### 業務委託 (2024/11 ~ 現在)
 
 * 職種
   * バックエンドエンジニア/インフラエンジニア
@@ -83,9 +81,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   * バックエンドの主要機能を設計~テストまでを担当
   * インフラエンジニアとしてインフラ面でのテックリードも担当
 
-### 2021/07 ~ 2024/10
-
-#### GMOペパボ株式会社
+### GMOペパボ株式会社 (2021/07 ~ 2024/10)
 
 * 職種
   * SRE
@@ -98,9 +94,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   * MySQLのパフォーマンス改善
   * メールサーバ・DNSサーバ・FTPサーバの運用
 
-### 2019/04 ~ 2021/06
-
-#### 株式会社オープンストリーム
+### 株式会社オープンストリーム (2019/04 ~ 2021/06)
 
 * 職種
   * バックエンドエンジニア/インフラエンジニア
@@ -110,10 +104,9 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   * 100台以上の物理サーバ->プライベートクラウドへのマイグレーション
   * CI/CD基盤の構築・運用
   * Prometheus/Grafanaを用いたオブザーバビリティ基盤の実装と運用
+  * 手動運用の自動化ツールの実装
  
-### 2016/04 ~ 2019/03
-
-#### 非公開(正社員)
+### 非公開(正社員) (2016/04 ~ 2019/03)
 
 * 職種
   * Linuxエンジニア
@@ -152,6 +145,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
 - OSS
     - [ryuichi1208/mackerel-plugin-axslog-light](https://github.com/ryuichi1208/mackerel-plugin-axslog-light)
+    - [ryuichi1208tde](https://github.com/ryuichi1208/tde)
     - [pepabo/oyaki](https://github.com/pepabo/oyaki)
 
 ## 個人について
