@@ -168,3 +168,5 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 * LPIC(300/303/304)
 * CCENT/CCNA
 * AWS(CLP/SAA/SOA/DVA)
+
+※期限があるものは失効済みになっている可能性があります
