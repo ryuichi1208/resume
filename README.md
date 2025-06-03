@@ -136,6 +136,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [技術書典16](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
     - [技術書典15](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
     - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
+    - [builders.flash](https://aws.amazon.com/jp/builders-flash/202506/ivry-sli-slo-operation/)
 - ブログ
     - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
     - [【Linux】Socket MigrationとWebSocketを使ったデプロイ戦略](https://ryuichi1208.hateblo.jp/entry/2024/12/23/235511)
