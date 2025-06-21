@@ -146,8 +146,8 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
     - [【Nginx】ソケットのキューのサイズを出力するMackerelプラグインを書いた](https://ryuichi1208.hateblo.jp/entry/2022/12/19/003004)
     - [【Nginx】epollとaccept thundering herdの話](https://ryuichi1208.hateblo.jp/entry/2022/12/05/012145)
-    - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
     - [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
+    - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
 - OSS
     - [ryuichi1208/mackerel-plugin-axslog-light](https://github.com/ryuichi1208/mackerel-plugin-axslog-light)
     - [ryuichi1208/mackerel-errorbudget-calculator](https://github.com/ryuichi1208/mackerel-errorbudget-calculator)
@@ -175,6 +175,9 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 * 基本情報技術者試験/応用情報技術者試験
 * LPIC(300/303/304)
 * CCENT/CCNA
-* AWS(CLP/SAA/SOA/DVA)
+* AWS(CLP/SAA/SOA/DVA/DBS)
+* Python3エンジニア(認定基礎/認定データ分析)
+* OSS-DB Silver
+* UMTP-L2
 
-※期限があるものは失効済みになっている可能性があります
+※有効期限があるものは失効済みになっている可能性があります
