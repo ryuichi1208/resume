@@ -50,12 +50,13 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 |種類|	技術|
 |-|-|
 |言語|Go, Python, Perl, C, ShellScript|
-|DB|PostgreSQL, MySQL, DynamoDB, Redis, memcached, Elasticsearch|
+|DB|PostgreSQL, MySQL, DynamoDB, Redis, memcached|
+|検索エンジン|Elasticsearch, Apache Sorl|
 |クラウド|AWS, Google Cloud, Azure, Heroku|
 |コンテナ|Kubernetes, EKS, ECS|
 |CI/CD|GitHub Actions, Jenkins, CircleCI, ArgoCD|
 |オブザーバビリティ|Datadog, Prometheus, Grafana, Mackerel|
-|IaC|Terraform, Ansible, Cloud Formation|
+|IaC|Terraform, Ansible, Cloud Formation, Puppet|
 |その他|Slack, Notion|
 
 ## 職歴
