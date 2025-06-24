@@ -144,6 +144,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [【Linux】SO_REUSEPORTに入門してGracefulなrestartを目指す](https://ryuichi1208.hateblo.jp/entry/2021/08/26/001900)
     - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
     - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
+    - [【MySQL】MySQLで使用しているメモリが徐々に増え続けているので調べたメモ](https://ryuichi1208.hateblo.jp/entry/2022/03/21/000054)
     - [【Nginx】ソケットのキューのサイズを出力するMackerelプラグインを書いた](https://ryuichi1208.hateblo.jp/entry/2022/12/19/003004)
     - [【Nginx】epollとaccept thundering herdの話](https://ryuichi1208.hateblo.jp/entry/2022/12/05/012145)
     - [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
