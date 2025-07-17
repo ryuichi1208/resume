@@ -123,6 +123,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 ## 登壇/執筆
 
 - 登壇歴
+    - [SRE NEXT 2025](https://speakerdeck.com/ivry_presentationmaterials/dui-hua-xing-yin-sheng-aiapurikesiyonnoxin-lai-xing-xiang-shang-noqu-rizu-mi)
     - [Open Source Conference 2025 Tokyo/Spring](https://speakerdeck.com/ryuichi1208/godezuo-tutexue-huwebsocket)
     - [@IT 運用管理セミナー 2024夏](https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying) ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
     - [YAPC::Hakodate 2024](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
