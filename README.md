@@ -174,8 +174,9 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 
 ## コミュニティ
 
-* SRE NEXT 2025 コアスタッフ
-* SRE NEXT 2024 コアスタッフ Co-Chair
+* SRE NEXT 2026
+* SRE NEXT 2025 コアスタッフ Co-Chair
+* SRE NEXT 2024 コアスタッフ
 * SRE NEXT 2023 コアスタッフ
 * SRE NEXT 2022 コアスタッフ
 * 仙台Python勉強会 organizer
