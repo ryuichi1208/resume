@@ -13,7 +13,7 @@
 * [Zenn](https://zenn.dev/ryuichi1208)
 * [Qiita](https://qiita.com/ryuichi1208)
 
-連絡は[X](https://x.com/ryuichi_1208)のDMか「ryucrosskey@gmail.com」までお願いします。
+連絡はXのDMか「ryucrosskey@gmail.com」までお願いします。
 
 ## 好きな領域
 
