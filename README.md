@@ -120,7 +120,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   * システムの負荷軽減を考慮した最適化を行い、大規模な環境でも安定して動作するようにパフォーマンスチューニングを実施
   * クォータのメタデータ性能測定ツールの実装
 
-## 登壇/執筆
+## 登壇
 
 - 登壇歴
     - SRE NEXT 2025
@@ -135,31 +135,37 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [Cloud Operator Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/xin-lai-xing-woluo-tosazuxiao-guo-de-nionkoruwojian-rasuqu-rizu-miwomu-zhi-site)
     - [CloudNative Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/pepabonosregasheng-chan-xing-noxiang-shang-womu-zhi-sicloud-nativenatimuzuo-riwoshi-jian-sitahua)
     - [July Tech Festa 2021]()
-- 執筆
-    - [技術書典16「Good Morning #02」](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
-    - [技術書典15「Good Morning #01」](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
+
+## 執筆
+
+- 書籍(商業誌)
+- 書籍(同人誌)
+  - [技術書典16「Good Morning #02」](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
+  - [技術書典15「Good Morning #01」](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
 - 寄稿
-    - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
-    - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
-    - [builders.flash](https://aws.amazon.com/jp/builders-flash/202506/ivry-sli-slo-operation/)
+  - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
+  - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
+  - [builders.flash](https://aws.amazon.com/jp/builders-flash/202506/ivry-sli-slo-operation/)
 - ブログ
-    - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
-    - [【Linux】Socket MigrationとWebSocketを使ったデプロイ戦略](https://ryuichi1208.hateblo.jp/entry/2024/12/23/235511)
-    - [【Linux】SO_REUSEPORTに入門してGracefulなrestartを目指す](https://ryuichi1208.hateblo.jp/entry/2021/08/26/001900)
-    - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
-    - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
-    - [【MySQL】MySQLで使用しているメモリが徐々に増え続けているので調べたメモ](https://ryuichi1208.hateblo.jp/entry/2022/03/21/000054)
-    - [【Nginx】ソケットのキューのサイズを出力するMackerelプラグインを書いた](https://ryuichi1208.hateblo.jp/entry/2022/12/19/003004)
-    - [【Nginx】epollとaccept thundering herdの話](https://ryuichi1208.hateblo.jp/entry/2022/12/05/012145)
-    - [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
-    - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
-- OSS
-    - [ryuichi1208/mackerel-plugin-axslog-light](https://github.com/ryuichi1208/mackerel-plugin-axslog-light)
-    - [ryuichi1208/mackerel-errorbudget-calculator](https://github.com/ryuichi1208/mackerel-errorbudget-calculator)
-    - [ryuichi1208/mackerel-plugin-sslhandshake-time](https://github.com/ryuichi1208/mackerel-plugin-sslhandshake-time)
-    - [ryuichi1208/tde](https://github.com/ryuichi1208/tde)
-    - [pepabo/oyaki](https://github.com/pepabo/oyaki)
-    - [rRateLimit/gorl](https://github.com/rRateLimit/gorl)
+  - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
+  - [【Linux】Socket MigrationとWebSocketを使ったデプロイ戦略](https://ryuichi1208.hateblo.jp/entry/2024/12/23/235511)
+  - [【Linux】SO_REUSEPORTに入門してGracefulなrestartを目指す](https://ryuichi1208.hateblo.jp/entry/2021/08/26/001900)
+  - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
+  - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
+  - [【MySQL】MySQLで使用しているメモリが徐々に増え続けているので調べたメモ](https://ryuichi1208.hateblo.jp/entry/2022/03/21/000054)
+  - [【Nginx】ソケットのキューのサイズを出力するMackerelプラグインを書いた](https://ryuichi1208.hateblo.jp/entry/2022/12/19/003004)
+  - [【Nginx】epollとaccept thundering herdの話](https://ryuichi1208.hateblo.jp/entry/2022/12/05/012145)
+  - [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
+  - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
+
+## OSS
+
+  - [ryuichi1208/mackerel-plugin-axslog-light](https://github.com/ryuichi1208/mackerel-plugin-axslog-light)
+  - [ryuichi1208/mackerel-errorbudget-calculator](https://github.com/ryuichi1208/mackerel-errorbudget-calculator)
+  - [ryuichi1208/mackerel-plugin-sslhandshake-time](https://github.com/ryuichi1208/mackerel-plugin-sslhandshake-time)
+  - [ryuichi1208/tde](https://github.com/ryuichi1208/tde)
+  - [pepabo/oyaki](https://github.com/pepabo/oyaki)
+  - [rRateLimit/gorl](https://github.com/rRateLimit/gorl)
 
 ## 個人について
 
