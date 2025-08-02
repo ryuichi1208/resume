@@ -135,10 +135,11 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [Cloud Operator Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/xin-lai-xing-woluo-tosazuxiao-guo-de-nionkoruwojian-rasuqu-rizu-miwomu-zhi-site)
     - [CloudNative Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/pepabonosregasheng-chan-xing-noxiang-shang-womu-zhi-sicloud-nativenatimuzuo-riwoshi-jian-sitahua)
     - [July Tech Festa 2021]()
-- 寄稿/取材
+- 執筆
+    - [技術書典16「Good Morning #02」](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
+    - [技術書典15「Good Morning #01」](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
+- 寄稿
     - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
-    - [技術書典16](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
-    - [技術書典15](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
     - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
     - [builders.flash](https://aws.amazon.com/jp/builders-flash/202506/ivry-sli-slo-operation/)
 - ブログ
