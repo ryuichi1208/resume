@@ -123,18 +123,27 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 ## 登壇
 
 - 登壇歴
-    - SRE NEXT 2025
-      - [対話型音声AIアプリケーションの信頼性向上の取り組み](https://speakerdeck.com/ivry_presentationmaterials/dui-hua-xing-yin-sheng-aiapurikesiyonnoxin-lai-xing-xiang-shang-noqu-rizu-mi)
-    - Open Source Conference 2025 Tokyo/Spring
-      - [Goで作って学ぶWebSocket](https://speakerdeck.com/ryuichi1208/godezuo-tutexue-huwebsocket)
-    - [@IT 運用管理セミナー 2024夏](https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying) ([基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D))
-    - [YAPC::Hakodate 2024](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
-    - [YAPC::Hiroshima 2024](https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying)
-    - [YAPC::Kyoto 2023](https://speakerdeck.com/ryuichi1208/ru-men-zhang-hai-dui-ying)
-    - [CI/CD Conference 2023](https://speakerdeck.com/ryuichi1208/inhuraci-cdji-sok-de-gai-shan-nodao-nori)
-    - [Cloud Operator Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/xin-lai-xing-woluo-tosazuxiao-guo-de-nionkoruwojian-rasuqu-rizu-miwomu-zhi-site)
-    - [CloudNative Days Tokyo 2022](https://speakerdeck.com/ryuichi1208/pepabonosregasheng-chan-xing-noxiang-shang-womu-zhi-sicloud-nativenatimuzuo-riwoshi-jian-sitahua)
-    - [July Tech Festa 2021]()
+  - SRE NEXT 2025
+    - [対話型音声AIアプリケーションの信頼性向上の取り組み](https://speakerdeck.com/ivry_presentationmaterials/dui-hua-xing-yin-sheng-aiapurikesiyonnoxin-lai-xing-xiang-shang-noqu-rizu-mi)
+  - Open Source Conference 2025 Tokyo/Spring
+    - [Goで作って学ぶWebSocket](https://speakerdeck.com/ryuichi1208/godezuo-tutexue-huwebsocket)
+  - @IT 運用管理セミナー 2024夏
+    - [効果的なオンコール対応と障害対応](https://speakerdeck.com/ryuichi1208/xiao-guo-de-naonkorudui-ying-tozhang-hai-dui-ying)
+    - [基調講演として登壇](https://members08.live.itmedia.co.jp/library/NzMyODU%253D)
+  - YAPC::Hakodate 2024
+    - [入門 バックアップ](https://speakerdeck.com/ryuichi1208/ru-men-batukuatupu)
+  - YAPC::Hiroshima 2024
+    - [入門 EOL対応](https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying)
+  - YAPC::Kyoto 2023
+    - [入門 障害対応](https://speakerdeck.com/ryuichi1208/ru-men-zhang-hai-dui-ying)
+  - CI/CD Conference 2023
+    - [インフラCI/CD継続的改善の道のり](https://speakerdeck.com/ryuichi1208/inhuraci-cdji-sok-de-gai-shan-nodao-nori)
+  - Cloud Operator Days Tokyo 2022
+    - [信頼性を落とさず効果的にオンコールを減らす取り組みを目指して](https://speakerdeck.com/ryuichi1208/xin-lai-xing-woluo-tosazuxiao-guo-de-nionkoruwojian-rasuqu-rizu-miwomu-zhi-site)
+  - CloudNative Days Tokyo 2022
+    - [ペパボのSREが生産性の向上を目指しCloud Nativeなチーム作りを実践した話](https://speakerdeck.com/ryuichi1208/pepabonosregasheng-chan-xing-noxiang-shang-womu-zhi-sicloud-nativenatimuzuo-riwoshi-jian-sitahua)
+  - July Tech Festa 2021
+    - [インシデントを楽しむ7つのコツ]()
 
 ## 執筆
 
