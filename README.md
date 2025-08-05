@@ -158,6 +158,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
   - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
   - [builders.flash](https://aws.amazon.com/jp/builders-flash/202506/ivry-sli-slo-operation/)
+  - [SRE Magazine](https://www.google.com/search?q=ryuichi_1208+site%3Ahttps%3A%2F%2Fsre-magazine.net%2F&sca_esv=150a47ab3b64ff5c&sxsrf=AE3TifM0KYqm-08Buwk8EzC7xDAoyp27Ug%3A1754375224853&ei=OKSRaJnnM52B2roPqdjICQ&ved=0ahUKEwiZ49GAhfOOAxWdgFYBHSksMgEQ4dUDCBI&uact=5&oq=ryuichi_1208+site%3Ahttps%3A%2F%2Fsre-magazine.net%2F&gs_lp=Egxnd3Mtd2l6LXNlcnAiK3J5dWljaGlfMTIwOCBzaXRlOmh0dHBzOi8vc3JlLW1hZ2F6aW5lLm5ldC9IxgxQiQZYhgtwAXgAkAEAmAFYoAGvA6oBATW4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB_8BsgcAuAcAwgcAyAcA&sclient=gws-wiz-serp)
 - ブログ
   - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
   - [【Linux】Socket MigrationとWebSocketを使ったデプロイ戦略](https://ryuichi1208.hateblo.jp/entry/2024/12/23/235511)
