@@ -55,7 +55,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 |クラウド|AWS, Google Cloud, Azure, Heroku|
 |コンテナ|Kubernetes, EKS, ECS|
 |CI/CD|GitHub Actions, Jenkins, CircleCI, ArgoCD|
-|オブザーバビリティ|Datadog, Prometheus, Grafana, Mackerel|
+|オブザーバビリティ|Datadog, Prometheus, Grafana, Mackerel, Sentry|
 |IaC|Terraform, Ansible, Cloud Formation, Puppet|
 |その他|Slack, Notion|
 
