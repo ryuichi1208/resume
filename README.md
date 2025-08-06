@@ -135,6 +135,8 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [入門 EOL対応](https://speakerdeck.com/ryuichi1208/ru-men-eoldui-ying)
   - YAPC::Kyoto 2023
     - [入門 障害対応](https://speakerdeck.com/ryuichi1208/ru-men-zhang-hai-dui-ying)
+  - Go Conference 2023
+    - [SREのチーム共通言語をGoにした話](https://speakerdeck.com/ryuichi1208/srenotimugong-tong-yan-yu-wogonisitahua)
   - CI/CD Conference 2023
     - [インフラCI/CD継続的改善の道のり](https://speakerdeck.com/ryuichi1208/inhuraci-cdji-sok-de-gai-shan-nodao-nori)
   - Cloud Operator Days Tokyo 2022
