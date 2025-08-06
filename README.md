@@ -210,6 +210,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 * LPIC(300/303/304)
 * CCENT/CCNA
 * AWS(CLP/SAA/SOA/DVA/DBS)
+* CKA/CKAD
 * Python3エンジニア(認定基礎/認定データ分析)
 * OSS-DB Silver
 * UMTP-L2
