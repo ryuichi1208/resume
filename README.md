@@ -155,7 +155,6 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   - [技術書典15「Good Morning #01」](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
 - 書籍レビュー
   - [Ruby コードレシピ集](https://gihyo.jp/book/2024/978-4-297-14403-6)
-  - [いきなりプログラミング JavaScript](https://www.shoeisha.co.jp/book/detail/9784798184395)
 - 寄稿
   - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
   - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
