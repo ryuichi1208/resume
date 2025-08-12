@@ -154,6 +154,7 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   - [技術書典16「Good Morning #02」](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
   - [技術書典15「Good Morning #01」](https://techbookfest.org/product/hhAtue5UkHeMXiy8NNpu3)
 - 書籍レビュー
+  - [みんなのPython 第5版](https://www.sbcr.jp/product/4815631529/)
   - [Ruby コードレシピ集](https://gihyo.jp/book/2024/978-4-297-14403-6)
 - 寄稿
   - [@ITメディア](https://atmarkit.itmedia.co.jp/ait/articles/2207/26/news017.html)
