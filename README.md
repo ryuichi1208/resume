@@ -149,6 +149,8 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
 ## 執筆
 
 - 書籍(商業誌)
+  - [SREの知識地図](https://gihyo.jp/book/2025/978-4-297-15072-3)
+  - [Software Design 2025年11月号](https://gihyo.jp/magazine/SD/archive/2025/202511)
   - [Software Design 2022年5月号](https://gihyo.jp/magazine/SD/archive/2022/202205)
 - 書籍(同人誌)
   - [技術書典16「Good Morning #02」](https://techbookfest.org/product/1w3NHxtVJmk2PPREQJfNLN)
