@@ -10,6 +10,7 @@
 * [X](https://x.com/ryuichi_1208)
 * [はてなブログ](https://ryuichi1208.hateblo.jp/)
 * [SpeakerDeck](https://speakerdeck.com/ryuichi1208)
+* [ブクログ](https://booklog.jp/users/ryuichi1208)
 * [Zenn](https://zenn.dev/ryuichi1208)
 * [Qiita](https://qiita.com/ryuichi1208)
 
@@ -44,20 +45,6 @@ TerraformやAnsibleを使用して、インフラの構成管理と自動化を�
 **バックエンド開発**
 
 Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQL APIの設計・実装を行い、マイクロサービスアーキテクチャを導入することで、サービスのスケーラビリティとパフォーマンスを最適化できます。具体的には、アプリケーションのボトルネックを特定してコードの最適化を行い、APIレスポンス時間を短縮したり、キャッシュ機構を導入してシステムの負荷を軽減することができます。また、データベースクエリの最適化や、キャッシュ戦略の導入により、システム全体のレスポンス速度を向上させることができます。
-
-## スキル
-
-|種類|	技術|
-|-|-|
-|言語|Go, Python, Perl, C, ShellScript|
-|DB|PostgreSQL, MySQL, DynamoDB, Redis, memcached|
-|検索エンジン|Elasticsearch, Apache Sorl|
-|クラウド|AWS, Google Cloud, Azure, Heroku|
-|コンテナ|Kubernetes, EKS, ECS|
-|CI/CD|GitHub Actions, Jenkins, CircleCI, ArgoCD|
-|オブザーバビリティ|Datadog, Prometheus, Grafana, Mackerel, Sentry|
-|IaC|Terraform, Ansible, Cloud Formation, Puppet|
-|その他|Slack, Notion|
 
 ## 職歴
 
