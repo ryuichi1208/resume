@@ -11,7 +11,7 @@
 - [Zenn](https://zenn.dev/ryuichi1208)
 - [Qiita](https://qiita.com/ryuichi1208)
 - [ブクログ](https://booklog.jp/users/ryuichi1208)
-- Email: ryucrosskey@gmail.com
+- [Email](mailto:ryucrosskey@gmail.com)
 
 ## Skills
 
