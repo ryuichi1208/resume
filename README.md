@@ -2,20 +2,6 @@
 
 2016年からソフトウェアエンジニアとして活動。キャリア初期はLinux向けファイルシステム開発に従事し、その後インフラエンジニア、SREとしてWebサービスの運用に携わる。現在は株式会社IVRyで対話型音声AI SaaSのSREとして活動中。障害対応やEOL対応に強みを持つ。
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/default/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/default/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/default/2-most-commit-language.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/default/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/ryuichi1208/ryuichi1208/master/profile-summary-card-output/default/4-productive-time.svg" />
-</p>
-
 ## Contact
 
 - [GitHub](https://github.com/ryuichi1208)
@@ -119,3 +105,17 @@
 - UMTP-L2
 
 *※有効期限があるものは失効済みの可能性があります*
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/2-most-commit-language.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/4-productive-time.svg" />
+</p>
