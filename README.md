@@ -143,8 +143,6 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
     - [信頼性を落とさず効果的にオンコールを減らす取り組みを目指して](https://speakerdeck.com/ryuichi1208/xin-lai-xing-woluo-tosazuxiao-guo-de-nionkoruwojian-rasuqu-rizu-miwomu-zhi-site)
   - CloudNative Days Tokyo 2022
     - [ペパボのSREが生産性の向上を目指しCloud Nativeなチーム作りを実践した話](https://speakerdeck.com/ryuichi1208/pepabonosregasheng-chan-xing-noxiang-shang-womu-zhi-sicloud-nativenatimuzuo-riwoshi-jian-sitahua)
-  - July Tech Festa 2021
-    - [インシデントを楽しむ7つのコツ]()
 
 ## 執筆
 
@@ -163,17 +161,6 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   - [Findy-Tools](https://findy-tools.io/products/amazon-cloudwatch/36/394)
   - [builders.flash](https://aws.amazon.com/jp/builders-flash/202506/ivry-sli-slo-operation/)
   - [SRE Magazine](https://www.google.com/search?q=ryuichi_1208+site%3Ahttps%3A%2F%2Fsre-magazine.net%2F&sca_esv=150a47ab3b64ff5c&sxsrf=AE3TifM0KYqm-08Buwk8EzC7xDAoyp27Ug%3A1754375224853&ei=OKSRaJnnM52B2roPqdjICQ&ved=0ahUKEwiZ49GAhfOOAxWdgFYBHSksMgEQ4dUDCBI&uact=5&oq=ryuichi_1208+site%3Ahttps%3A%2F%2Fsre-magazine.net%2F&gs_lp=Egxnd3Mtd2l6LXNlcnAiK3J5dWljaGlfMTIwOCBzaXRlOmh0dHBzOi8vc3JlLW1hZ2F6aW5lLm5ldC9IxgxQiQZYhgtwAXgAkAEAmAFYoAGvA6oBATW4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB_8BsgcAuAcAwgcAyAcA&sclient=gws-wiz-serp)
-- ブログ
-  - [【Linux】100万ファイルくらいあるディレクトリのファイルのリストを高速に表示したい](https://ryuichi1208.hateblo.jp/entry/2022/12/25/010900)
-  - [【Linux】Socket MigrationとWebSocketを使ったデプロイ戦略](https://ryuichi1208.hateblo.jp/entry/2024/12/23/235511)
-  - [【Linux】SO_REUSEPORTに入門してGracefulなrestartを目指す](https://ryuichi1208.hateblo.jp/entry/2021/08/26/001900)
-  - [【MySQL】ギャップロックの次のレコードロックをMySQL 8.0から取らなくなった？](https://ryuichi1208.hateblo.jp/entry/2024/04/14/090721)
-  - [【MySQL】trx_sys->mutexは人気のmutex](https://ryuichi1208.hateblo.jp/entry/2024/04/02/004308)
-  - [【MySQL】MySQLで使用しているメモリが徐々に増え続けているので調べたメモ](https://ryuichi1208.hateblo.jp/entry/2022/03/21/000054)
-  - [【Nginx】ソケットのキューのサイズを出力するMackerelプラグインを書いた](https://ryuichi1208.hateblo.jp/entry/2022/12/19/003004)
-  - [【Nginx】epollとaccept thundering herdの話](https://ryuichi1208.hateblo.jp/entry/2022/12/05/012145)
-  - [【Ruby】LinuxとRubyとCoW](https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722)
-  - [【WASM】WebAssemblyに再入門してみた](https://ryuichi1208.hateblo.jp/entry/2023/12/02/000000)
 
 ## OSS
 
@@ -183,20 +170,6 @@ Pythonを使用したバックエンド開発を担当し、RESTful APIやGraphQ
   - [ryuichi1208/tde](https://github.com/ryuichi1208/tde)
   - [pepabo/oyaki](https://github.com/pepabo/oyaki)
   - [rRateLimit/gorl](https://github.com/rRateLimit/gorl)
-
-## 個人について
-
-**学ぶこと・課題を解決することが好きです**
-
-私は新しいことを学ぶことが好きです。業務では自分が知らない技術や領域について学び続け現状の課題を解決していくことに加え常により良い方法を追求しています。プライベートでは技術書を読むことが好きで年間60冊以上を読み得られた知見を業務や趣味のプログラミングに活かしたりしています。
-
-**周りを巻き込んで施策を進めることができます**
-
-私は自分のやりたいことを周りを巻き込んで進めることができます。SREとしてSLI/SLOを導入する際はエンジニアだけではなくビジネス層のメンバーにも前提条件や背景事情を把握し相手に合わせたコミュニケーションをとることができます。導入によるメリット/デメリットの共有や合意点についての認識合わせなどを丁寧に行い進めてきました。
-
-**アウトプットをすることが好きです**
-
-私は「情報はアウトプットしている人の元へ集まる」を信じています。年間100記事以上の技術ブログの執筆や勉強会/カンファレンスへの登壇などを通して学びや考えをアウトプットし続けています。これらの活動は私にとって自己成長の源泉でもあります。新しい技術やアイデアに触れることで、自分の技術的な視野を広げ、より創造的で効果的なソリューションを提案する能力を磨いています。さらに、これらの経験は私がチームやプロジェクトに新たな視点をもたらし、新たな視点、アプローチを推進することに貢献しています。
 
 ## コミュニティ
 
