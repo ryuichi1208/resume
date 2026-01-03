@@ -2,11 +2,11 @@
 
 2016年からソフトウェアエンジニアとして活動。キャリア初期はLinux向けファイルシステム開発に従事し、その後インフラエンジニア、SREとしてWebサービスの運用に携わる。現在は株式会社IVRyで対話型音声AI SaaSのSREとして活動中。障害対応やEOL対応に強みを持つ。
 
-## Contact
+## SNS
 
 - [GitHub](https://github.com/ryuichi1208)
 - [X](https://x.com/ryuichi_1208)
-- [はてなブログ](https://ryuichi1208.hateblo.jp/)
+- [Blog](https://ryuichi1208.hateblo.jp/)
 - [SpeakerDeck](https://speakerdeck.com/ryuichi1208)
 - [Zenn](https://zenn.dev/ryuichi1208)
 - [Qiita](https://qiita.com/ryuichi1208)
@@ -18,7 +18,7 @@
 - **SRE**: SLI/SLO設計、エラーバジェット運用、大規模組織へのSRE導入
 - **インシデント管理**: 根本原因分析、復旧作業のリード、再発防止策策定
 - **可観測性**: Grafana, Prometheus, Datadog等を用いた監視基盤構築
-- **システムパフォーマンス最適化**: MySQL/Nginxのチューニング、ボトルネック特定
+- **システムパフォーマンス最適化**: OS~アプリケーションのチューニング、ボトルネック特定
 - **インフラ自動化**: Terraform, Ansible によるIaC
 - **バックエンド開発**: Python, Go, RESTful API, GraphQL
 
