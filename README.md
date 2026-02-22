@@ -15,12 +15,18 @@
 
 ## Skills
 
-- **SRE**: SLI/SLO設計、エラーバジェット運用、大規模組織へのSRE導入
-- **インシデント管理**: 根本原因分析、復旧作業のリード、再発防止策策定
-- **可観測性**: Grafana, Prometheus, Datadog等を用いた監視基盤構築
-- **システムパフォーマンス最適化**: OS~アプリケーションのチューニング、ボトルネック特定
-- **インフラ自動化**: Terraform, Ansible によるIaC
-- **バックエンド開発**: Python, Go, RESTful API, GraphQL
+- SRE
+  - SLI/SLO設計、エラーバジェット運用、大規模組織へのSRE導入
+- インシデント管理
+  - 根本原因分析、復旧作業のリード、再発防止策策定
+- 可観測性
+  - Grafana, Prometheus, Datadog等を用いた監視基盤構築
+- システムパフォーマンス最適化
+  - OS~アプリケーションのチューニング、ボトルネック特定
+- インフラ自動化
+  - Terraform, Ansible によるIaC
+- バックエンド開発
+  - Python, Go, RESTful API, GraphQL
 
 ## Experience
 
@@ -95,14 +101,20 @@
 
 ## Certifications
 
-- 基本情報技術者試験 / 応用情報技術者試験
-- LPIC (300/303/304)
-- CCENT / CCNA
-- AWS (CLP/SAA/SOA/DVA/DBS)
-- CKA / CKAD
-- Python3エンジニア (認定基礎/認定データ分析)
-- OSS-DB Silver
-- UMTP-L2
+- 基本情報技術者試験
+- 応用情報技術者試験
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Certified CloudOps Engineer - Associate
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Developer - Associate
+- Google Cloud Certified - Associate Cloud Engineer
+- Google Cloud Certified - Professional Cloud Architect
+- Certified Kubernetes Administrator
+- Certified Kubernetes Application Developer
+- Python 3 エンジニア認定基礎試験
+- Python 3 エンジニア認定データ分析試験
+- UMTP Level 2
 
 *※有効期限があるものは失効済みの可能性があります*
 
@@ -114,8 +126,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/2-most-commit-language.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/4-productive-time.svg" />
 </p>
