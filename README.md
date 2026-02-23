@@ -26,7 +26,11 @@
 - インフラ自動化
   - Terraform, Ansible によるIaC
 - バックエンド開発
-  - Python, Go, RESTful API, GraphQL
+  - Python, Go, RESTful API
+- データベース管理
+  - MySQLのパフォーマンスチューニング、クエリ最適化
+- セキュリティ
+  - 脆弱性管理、アクセス制御、セキュリティベストプラクティスの実装
 
 ## Experience
 
