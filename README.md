@@ -115,6 +115,10 @@
 - Python 3 エンジニア認定基礎試験
 - Python 3 エンジニア認定データ分析試験
 - UMTP Level 2
+- LPIC-3
+  - 300 Mixed Environment
+  - 303 Security
+  - 304 Virtualization & High Availability
 
 *※有効期限があるものは失効済みの可能性があります*
 
@@ -124,6 +128,6 @@
   <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/0-profile-details.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/1-repos-per-language.svg" width="350" />
+  <img src="https://raw.githubusercontent.com/ryuichi1208/resume/master/profile-summary-card-output/default/2-most-commit-language.svg" width="350" />
 </p>
