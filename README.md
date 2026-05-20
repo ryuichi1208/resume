@@ -11,7 +11,8 @@
 - [Zenn](https://zenn.dev/ryuichi1208)
 - [Qiita](https://qiita.com/ryuichi1208)
 - [ブクログ](https://booklog.jp/users/ryuichi1208)
-- [Email](mailto:ryucrosskey@gmail.com)
+
+mail: ryucrosskey@gmail.com
 
 ## Skills
 
@@ -26,9 +27,9 @@
 - インフラ自動化
   - Terraform, Ansible によるIaC
 - バックエンド開発
-  - Python, Go, RESTful API
+  - Python、Go、Ruby
 - データベース管理
-  - MySQLのパフォーマンスチューニング、クエリ最適化
+  - MySQL/PostgreSQLのパフォーマンスチューニング、クエリ最適化
 - セキュリティ
   - 脆弱性管理、アクセス制御、セキュリティベストプラクティスの実装
 
@@ -100,6 +101,7 @@
 - SRE NEXT 2024 コアスタッフ
 - SRE NEXT 2023 コアスタッフ
 - SRE NEXT 2022 コアスタッフ
+- Tamachi.sre organizer
 - 仙台Python勉強会 organizer
 - Sendai.vim organizer
 
