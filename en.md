@@ -17,7 +17,8 @@ Active as a software engineer since 2016. Early in my career, I worked on file s
 - [Zenn](https://zenn.dev/ryuichi1208)
 - [Qiita](https://qiita.com/ryuichi1208)
 - [Booklog](https://booklog.jp/users/ryuichi1208)
-- [Email](mailto:ryucrosskey@gmail.com)
+
+mail: ryucrosskey@gmail.com
 
 ## Skills
 
@@ -32,9 +33,9 @@ Active as a software engineer since 2016. Early in my career, I worked on file s
 - Infrastructure Automation
   - IaC with Terraform and Ansible
 - Backend Development
-  - Python, Go, RESTful APIs
+  - Python, Go, Ruby
 - Database Management
-  - MySQL performance tuning, query optimization
+  - MySQL/PostgreSQL performance tuning, query optimization
 - Security
   - Vulnerability management, access control, implementing security best practices
 
@@ -106,6 +107,7 @@ Active as a software engineer since 2016. Early in my career, I worked on file s
 - SRE NEXT 2024 Core Staff
 - SRE NEXT 2023 Core Staff
 - SRE NEXT 2022 Core Staff
+- Tamachi.sre Organizer
 - Sendai Python Meetup Organizer
 - Sendai.vim Organizer
 
