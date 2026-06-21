@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+baseurl: /resume
 title: 渡部龍一 / Ryuichi Watanabe
 description: SRE / Software Engineer
 logo: /profile.jpg
