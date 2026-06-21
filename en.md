@@ -2,7 +2,7 @@
 permalink: /en/
 ---
 
-[日本語](/) | **English**
+[日本語]({{ '/' | relative_url }}) | **English**
 
 # Ryuichi Watanabe
 
